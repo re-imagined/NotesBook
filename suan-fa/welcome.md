@@ -7,13 +7,13 @@ description: 'permutations, combinations'
 {% code title="排列" %}
 ```python
 nums    候选数字
-deepth  当前递归深度
+depth  当前递归深度
 n       每个排列长度
 used    标记是否用过
 
-全排列情况下可简化deepth为cur.lenght, n为nums.length
+全排列情况下可简化depth为cur.lenght, n为nums.length
 
-P(nums, deepth, n, used, cur, ans):
+P(nums, depth, n, used, cur, ans):
     if deepth == n:
         ans.append(cur)
         return
@@ -47,13 +47,13 @@ P([1, 2, 3], 0, 2, [false * 3], [], ans)
 n    每个组合结果长度
 s    从第s个元素开始取出元素来组合，只能取s之后的
 
-C(nums, deepth, n, s, cur, ans):
+C(nums, depth, n, s, cur, ans):
     if deepth == n:
         ans.append(cur)
         reurn
     for i = s to nums.lenght:
         cur.append(nums[i])
-        C(nums, deepth + 1, n, s + 1, cur, ans)
+        C(nums, depth + 1, n, s + 1, cur, ans)
         cur.pop()
 
 P([1, 2, 3], 0, 3, 0, [], ans)  
