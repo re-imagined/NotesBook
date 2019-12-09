@@ -1,5 +1,5 @@
 ---
-description: 每个数只能使用一次
+description: 每个数只能使用一次， 解集不重复
 ---
 
 # 40 组合总和 II
@@ -40,15 +40,13 @@ target = 5,
 class Solution {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
         List<List<Integer>> res = new ArrayList<>();
-        // 排序很重要
         Arrays.sort(candidates);
-        int[] used = new int[candidates.length];
-        dfs(candidates, used, target, 0, new ArrayList<>(), res);
+        dfs(candidates, target, 0, new ArrayList<>(), res);
         return res;
 
     }
 
-    public void dfs(int[] candidates, int[] used, int target, int start, 
+    public void dfs(int[] candidates, int target, int start, 
             ArrayList<Integer> cur, List<List<Integer>> res) {
         
         if (target == 0) {
@@ -57,13 +55,12 @@ class Solution {
         }
         for (int i = start ; i < candidates.length; i++) {
             if (candidates[i] > target) return;
-            // 略过同样的数字
-            if (i > start && candidates[i] == candidates[i - 1] ) continue;
+            // 保证不会使用相同元素
+            if (i > start && candidates[i] == candidates[i - 1]) continue;
             cur.add(candidates[i]);
-            used[i] = 1;
-            dfs(candidates, used, target - candidates[i], i + 1, cur, res);
+            // i + 1 保证不会使用用过的元素
+            dfs(candidates, target - candidates[i], i + 1, cur, res);
             cur.remove(cur.size() - 1);
-            used[i] = 0;
         }
     }
 }

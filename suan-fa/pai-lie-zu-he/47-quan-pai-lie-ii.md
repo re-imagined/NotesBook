@@ -1,5 +1,5 @@
 ---
-description: 不重复 全排列
+description: 输出不重复 全排列
 ---
 
 # 47 全排列 II
