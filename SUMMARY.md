@@ -9,6 +9,7 @@
     * [46 全排列](suan-fa/pai-lie-zu-he/49-quan-pai-lie.md)
     * [40 组合总和 II](suan-fa/pai-lie-zu-he/40-zu-he-zong-he-ii.md)
     * [77 组合](suan-fa/pai-lie-zu-he/77-zu-he.md)
+    * [78 子集](suan-fa/pai-lie-zu-he/78-zi-ji.md)
 * [Spring](spring/README.md)
   * [ApplicationContext与BeanFactory](spring/applicationcontext-yu-beanfactory.md)
 
