@@ -1,9 +1,5 @@
 # 树
 
-
-
-&lt;!--td {border: 1px solid \#ccc;}br {mso-data-placement:same-cell;}--&gt;
-
 | Id | Name | Difficulty | Similar Problems |  | Comments |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | ★ | [589](https://leetcode.com/problems/n-ary-tree-preorder-traversal) | [590](https://leetcode.com/problems/n-ary-tree-postorder-traversal) |  |  |  |  |  | traversal |
