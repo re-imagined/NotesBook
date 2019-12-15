@@ -19,7 +19,14 @@ board =
 给定 word = "ABCB", 返回 false.
 ```
 
+{% tabs %}
+{% tab title="dfs" %}
 ```java
+/**
+  时间复杂度 O(m * n * 4 ^ len(word))
+  空间复杂度 O(1)
+*/
+
 class Solution {
     int h;
     int l;
@@ -37,9 +44,7 @@ class Solution {
     }
 
     private boolean search(char[][] board, String word, int depth, int x, int y) {
-        if (x < 0 || y < 0 || x >= h || y >= l 
-            || word.charAt(depth) != board[x][y])
-        {
+        if (x < 0 || y < 0 || x >= h || y >= l || word.charAt(depth) != board[x][y]) {
             return false;
         }
         if (depth == word.length() - 1) {
@@ -55,5 +60,10 @@ class Solution {
         return ret;
     }
 }
+
 ```
+{% endtab %}
+{% endtabs %}
+
+
 
