@@ -61,22 +61,23 @@ class Node {
 */
 class Solution {
     public int maxDepth(Node root) {
-        if(root == null) {
-            return 0;
-        }
+        if(root == null) return 0;
+        if(root.children.size() == 0) return 1;
+
         int res = 0;
-        Stack<Node> stack = new Stack();
-        stack.add(root);
+        LinkedList<Node> queue = new LinkedList<>();
+        queue.add(root);
         
-        while (!stack.isEmpty()){
-            int s = stack.size();
-            for (int i = 0; i < s; i ++ ) {
-                Node n = stack.pop();
-                for (Node child : n.children) {
-                    stack.add(child);
-                }
-            }
+        while (!queue.isEmpty()){
+            int s = queue.size();
             res += 1;
+            while(s > 0) {
+                Node n = queue.poll();
+                if (n.children.size() > 0) {
+                    queue.addAll(n.children);
+                }
+                s--;
+            }
         }
         return res;
     }
