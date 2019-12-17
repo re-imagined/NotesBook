@@ -26,6 +26,8 @@
     * [100 相同的树](suan-fa/shu/100-xiang-tong-de-shu.md)
     * [101 对称二叉树](suan-fa/shu/101-dui-cheng-er-cha-shu.md)
     * [112 路径总和](suan-fa/shu/112-lu-jing-zong-he.md)
+    * [113 路径总和 II](suan-fa/shu/113-lu-jing-zong-he-ii.md)
+    * [437 路径总和 III](suan-fa/shu/437-lu-jing-zong-he-iii.md)
     * [257 二叉树的所有路径](suan-fa/shu/257-er-cha-shu-de-suo-you-lu-jing.md)
     * [129 求根到叶子节点数字之和](suan-fa/shu/129-qiu-gen-dao-ye-zi-jie-dian-shu-zi-zhi-he.md)
     * [235 二叉搜索树的最近公共祖先](suan-fa/shu/235-er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian.md)
