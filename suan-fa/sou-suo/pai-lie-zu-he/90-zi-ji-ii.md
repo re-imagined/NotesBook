@@ -26,7 +26,7 @@ class Solution {
   
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
-        Arrays.sort(nums);
+        Arrays.sort(nums); // 排序后才能根据相邻排除重复
         dfs(nums, 0, new ArrayList<>(), res);
         return res;
     }

@@ -4,7 +4,7 @@
 * [Java](java/README.md)
   * [static](java/static.md)
 * [算法](suan-fa/README.md)
-  * [链表](suan-fa/lian-biao.md)
+  * [链表 / 数组](suan-fa/lian-biao.md)
   * [双指针](suan-fa/shuang-zhi-zhen/README.md)
     * [167 两数之和 II - 输入有序数组](suan-fa/shuang-zhi-zhen/167-liang-shu-zhi-he-ii-shu-ru-you-xu-shu-zu.md)
     * [11 盛最多水的容器](suan-fa/shuang-zhi-zhen/11-sheng-zui-duo-shui-de-rong-qi.md)
