@@ -54,7 +54,7 @@ class Solution {
             return;
         }
         for (int i = start ; i < candidates.length; i++) {
-            if (candidates[i] > target) return;
+            if (candidates[i] > target) return; //剪枝
             // 保证不会使用相同元素
             if (i > start && candidates[i] == candidates[i - 1]) continue;
             cur.add(candidates[i]);
