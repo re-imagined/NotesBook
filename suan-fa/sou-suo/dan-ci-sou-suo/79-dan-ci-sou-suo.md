@@ -47,6 +47,7 @@ class Solution {
         if (x < 0 || y < 0 || x >= h || y >= l || word.charAt(depth) != board[x][y]) {
             return false;
         }
+        // 递归深度等于单词长度说明已经找到
         if (depth == word.length() - 1) {
             return true;
         }
