@@ -36,7 +36,12 @@ O\(logn\) 表示递归深度，每次都是对半分
 
 1表示每次递归需要的空间大小
 
-
+```text
+quickSort(array, start, end):
+    p = partition(array, start, end)
+    quickSort(array, start, p)
+    quickSort(array, p + 1, end)
+```
 
 
 
