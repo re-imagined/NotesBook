@@ -9,6 +9,7 @@
     * [547 朋友圈](suan-fa/tu-lun/547-peng-you-quan.md)
     * [733 图像渲染](suan-fa/tu-lun/733-tu-xiang-xuan-ran.md)
     * [841 钥匙和房间](suan-fa/tu-lun/841-yao-chi-he-fang-jian.md)
+    * [695 岛屿的最大面积](suan-fa/tu-lun/695-dao-yu-de-zui-da-mian-ji.md)
   * [排序](suan-fa/pai-xu/README.md)
     * [快排](suan-fa/pai-xu/kuai-pai.md)
     * [归并排序](suan-fa/pai-xu/gui-bing-pai-xu.md)
