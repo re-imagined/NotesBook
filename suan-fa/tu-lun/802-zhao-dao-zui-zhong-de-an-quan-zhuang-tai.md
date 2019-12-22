@@ -16,6 +16,8 @@
 
 ![](../../.gitbook/assets/image%20%285%29.png)
 
+其实就是找到不在任何环中的节点
+
 ```java
 class Solution {
     int UNKNOWN = 0;
