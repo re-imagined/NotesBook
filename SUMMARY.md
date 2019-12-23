@@ -5,6 +5,7 @@
   * [static](java/static.md)
 * [算法](suan-fa/README.md)
   * [动态规划](suan-fa/dong-tai-gui-hua/README.md)
+    * [139 单词拆分](suan-fa/dong-tai-gui-hua/139-dan-ci-chai-fen.md)
     * [300 最长上升子序列](suan-fa/dong-tai-gui-hua/300-zui-chang-shang-sheng-zi-xu-lie.md)
     * [152 乘积最大子序列](suan-fa/dong-tai-gui-hua/152-cheng-ji-zui-da-zi-xu-lie.md)
   * [图论](suan-fa/tu-lun/README.md)
