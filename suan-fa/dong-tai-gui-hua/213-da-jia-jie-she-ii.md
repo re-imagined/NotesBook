@@ -15,6 +15,8 @@
      偷窃到的最高金额 = 1 + 3 = 4 。
 ```
 
+和上一题一样，不同之处就是分别计算是否偷第一家的结果，然后取两次结果最大值
+
 ```java
 class Solution {
     public int rob(int[] nums) {
