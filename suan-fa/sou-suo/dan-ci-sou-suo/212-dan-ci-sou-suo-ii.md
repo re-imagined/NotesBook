@@ -104,7 +104,8 @@ class Solution {
         return new ArrayList<>(resSet);
     }
 
-    private void search(char[][] board, TrieNode cur, int x, int y, Set<String> resSet) {
+    private void search(char[][] board, TrieNode cur, int x, int y, 
+            Set<String> resSet) {
      
         if (x >= l || x < 0 || y >= h || y < 0 || board[x][y] == '0') return;
         cur = cur.children[board[x][y] - 'a'];
