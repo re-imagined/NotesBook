@@ -55,6 +55,8 @@
     * [235 二叉搜索树的最近公共祖先](suan-fa/shu/235-er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian.md)
     * [236 二叉树的最近公共祖先](suan-fa/shu/236-er-cha-shu-de-zui-jin-gong-gong-zu-xian.md)
   * [搜索](suan-fa/sou-suo/README.md)
+    * [广度优先](suan-fa/sou-suo/guang-du-you-xian/README.md)
+      * [127. 单词接龙](suan-fa/sou-suo/guang-du-you-xian/127.-dan-ci-jie-long.md)
     * [单词搜索](suan-fa/sou-suo/dan-ci-sou-suo/README.md)
       * [79 单词搜索](suan-fa/sou-suo/dan-ci-sou-suo/79-dan-ci-sou-suo.md)
       * [212 单词搜索II](suan-fa/sou-suo/dan-ci-sou-suo/212-dan-ci-sou-suo-ii.md)
