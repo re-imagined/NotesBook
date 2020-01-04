@@ -54,6 +54,7 @@
     * [129 求根到叶子节点数字之和](suan-fa/shu/129-qiu-gen-dao-ye-zi-jie-dian-shu-zi-zhi-he.md)
     * [235 二叉搜索树的最近公共祖先](suan-fa/shu/235-er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian.md)
     * [236 二叉树的最近公共祖先](suan-fa/shu/236-er-cha-shu-de-zui-jin-gong-gong-zu-xian.md)
+    * [617 合并二叉树](suan-fa/shu/617-he-bing-er-cha-shu.md)
   * [图论](suan-fa/tu-lun-1/README.md)
     * [200 岛屿数量](suan-fa/tu-lun-1/200-dao-yu-shu-liang.md)
     * [841 钥匙和房间](suan-fa/tu-lun-1/841-yao-chi-he-fang-jian.md)
