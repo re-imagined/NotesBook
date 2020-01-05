@@ -14,6 +14,7 @@
     * [53 最大子序和](suan-fa/dong-tai-gui-hua/53-zui-da-zi-xu-he.md)
     * [139 单词拆分](suan-fa/dong-tai-gui-hua/139-dan-ci-chai-fen.md)
     * [300 最长上升子序列](suan-fa/dong-tai-gui-hua/300-zui-chang-shang-sheng-zi-xu-lie.md)
+    * [334 递增的三元子序列](suan-fa/dong-tai-gui-hua/334-di-zeng-de-san-yuan-zi-xu-lie.md)
     * [152 乘积最大子序列](suan-fa/dong-tai-gui-hua/152-cheng-ji-zui-da-zi-xu-lie.md)
   * [图论](suan-fa/tu-lun/README.md)
     * [133 克隆图](suan-fa/tu-lun/ke-long-tu.md)
