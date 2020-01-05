@@ -61,6 +61,7 @@
     * [617 合并二叉树](suan-fa/shu/617-he-bing-er-cha-shu.md)
   * [图论](suan-fa/tu-lun-1/README.md)
     * [200 岛屿数量](suan-fa/tu-lun-1/200-dao-yu-shu-liang.md)
+    * [1254 统计封闭岛屿的数目](suan-fa/tu-lun-1/1254-tong-ji-feng-bi-dao-yu-de-shu-mu.md)
     * [841 钥匙和房间](suan-fa/tu-lun-1/841-yao-chi-he-fang-jian.md)
   * [搜索](suan-fa/sou-suo/README.md)
     * [广度优先](suan-fa/sou-suo/guang-du-you-xian/README.md)
