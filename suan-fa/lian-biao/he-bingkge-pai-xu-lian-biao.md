@@ -16,9 +16,9 @@
 
 合并两个链表的复杂度是O\(n\)，用merge sort的方式两两合并K个链表，复杂度是O\(klogK\)，所以 总的时间复杂度是O\(nKlogK\)
 
-也可以解释为，merge sort的递归树深度为O\(logK\)，每层递归都要遍历nK个节点，于是复杂度是O\(nKlogK\)
+merge sort的递归树深度为O\(logK\)，每层递归都要遍历nK个节点，于是复杂度是O\(nKlogK\)
 
-空间复杂度是递归深度 O\(logK\)
+空间复杂度是递归深度 O\(logK\)，可以通过非递归方式优化到O\(1\)
 
 ```java
 /**
