@@ -16,6 +16,7 @@
     * [300 最长上升子序列](suan-fa/dong-tai-gui-hua/300-zui-chang-shang-sheng-zi-xu-lie.md)
     * [334 递增的三元子序列](suan-fa/dong-tai-gui-hua/334-di-zeng-de-san-yuan-zi-xu-lie.md)
     * [152 乘积最大子序列](suan-fa/dong-tai-gui-hua/152-cheng-ji-zui-da-zi-xu-lie.md)
+    * [279 完全平方数](suan-fa/dong-tai-gui-hua/279-wan-quan-ping-fang-shu.md)
   * [图论](suan-fa/tu-lun/README.md)
     * [133 克隆图](suan-fa/tu-lun/ke-long-tu.md)
     * [138 复制带随机指针的链表](suan-fa/tu-lun/138-fu-zhi-dai-sui-ji-zhi-zhen-de-lian-biao.md)
