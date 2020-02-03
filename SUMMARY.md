@@ -61,6 +61,7 @@
     * [235 二叉搜索树的最近公共祖先](suan-fa/shu/235-er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian.md)
     * [236 二叉树的最近公共祖先](suan-fa/shu/236-er-cha-shu-de-zui-jin-gong-gong-zu-xian.md)
     * [617 合并二叉树](suan-fa/shu/617-he-bing-er-cha-shu.md)
+    * [440 字典序的第K小数字](suan-fa/shu/440-zi-dian-xu-de-dikxiao-shu-zi.md)
   * [图论](suan-fa/tu-lun-1/README.md)
     * [200 岛屿数量](suan-fa/tu-lun-1/200-dao-yu-shu-liang.md)
     * [1254 统计封闭岛屿的数目](suan-fa/tu-lun-1/1254-tong-ji-feng-bi-dao-yu-de-shu-mu.md)
