@@ -9,6 +9,7 @@
     * [523 连续的子数组和](suan-fa/hashmap/523-lian-xu-de-zi-shu-zu-he.md)
     * [560  和为K的子数组](suan-fa/hashmap/560-he-weikde-zi-shu-zu.md)
   * [动态规划](suan-fa/dong-tai-gui-hua/README.md)
+    * [64 最小路径和](suan-fa/dong-tai-gui-hua/64-zui-xiao-lu-jing-he.md)
     * [121 买卖股票的最佳时机](suan-fa/dong-tai-gui-hua/121-mai-mai-gu-piao-de-zui-jia-shi-ji.md)
     * [198 打家劫舍](suan-fa/dong-tai-gui-hua/198-da-jia-jie-she.md)
     * [213 打家劫舍 II](suan-fa/dong-tai-gui-hua/213-da-jia-jie-she-ii.md)
