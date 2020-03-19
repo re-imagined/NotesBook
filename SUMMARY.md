@@ -4,6 +4,8 @@
 * [Java](java/README.md)
   * [static](java/static.md)
 * [算法](suan-fa/README.md)
+  * [其他](suan-fa/qi-ta/README.md)
+    * [398 随机数索引 蓄水池抽样](suan-fa/qi-ta/398-sui-ji-shu-suo-yin-xu-shui-chi-chou-yang.md)
   * [HashMap](suan-fa/hashmap/README.md)
     * [525. 连续数组](suan-fa/hashmap/525.-lian-xu-shu-zu.md)
     * [523 连续的子数组和](suan-fa/hashmap/523-lian-xu-de-zi-shu-zu-he.md)
