@@ -43,6 +43,7 @@
     * [167 两数之和 II - 输入有序数组](suan-fa/lian-biao/167-liang-shu-zhi-he-ii-shu-ru-you-xu-shu-zu.md)
     * [977 有序数组的平方](suan-fa/lian-biao/977-you-xu-shu-zu-de-ping-fang.md)
     * [合并K个排序链表](suan-fa/lian-biao/he-bingkge-pai-xu-lian-biao.md)
+    * [148 排序链表](suan-fa/lian-biao/148-pai-xu-lian-biao.md)
     * [215 数组中的第K个最大元素](suan-fa/lian-biao/215-shu-zu-zhong-de-dikge-zui-da-yuan-su.md)
   * [树](suan-fa/shu/README.md)
     * [104. 二叉树的最大深度](suan-fa/shu/104.-er-cha-shu-de-zui-da-shen-du.md)
