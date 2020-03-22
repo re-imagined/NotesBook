@@ -6,6 +6,7 @@
 * [算法](suan-fa/README.md)
   * [位运算](suan-fa/wei-yun-suan/README.md)
     * [389 找不同](suan-fa/wei-yun-suan/389-zhao-bu-tong.md)
+    * [67 二进制求和](suan-fa/wei-yun-suan/67-er-jin-zhi-qiu-he.md)
   * [其他](suan-fa/qi-ta/README.md)
     * [398 随机数索引 蓄水池抽样](suan-fa/qi-ta/398-sui-ji-shu-suo-yin-xu-shui-chi-chou-yang.md)
   * [HashMap](suan-fa/hashmap/README.md)
