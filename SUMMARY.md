@@ -91,6 +91,7 @@
   * [搜索](suan-fa/sou-suo/README.md)
     * [二分查找](suan-fa/sou-suo/er-fen-cha-zhao/README.md)
       * [4 寻找两个有序数组的中位数](suan-fa/sou-suo/er-fen-cha-zhao/4-xun-zhao-liang-ge-you-xu-shu-zu-de-zhong-wei-shu.md)
+      * [378 有序矩阵中第K小的元素](suan-fa/sou-suo/er-fen-cha-zhao/378-you-xu-ju-zhen-zhong-dikxiao-de-yuan-su.md)
     * [广度优先](suan-fa/sou-suo/guang-du-you-xian/README.md)
       * [127. 单词接龙](suan-fa/sou-suo/guang-du-you-xian/127.-dan-ci-jie-long.md)
     * [单词搜索](suan-fa/sou-suo/dan-ci-sou-suo/README.md)
