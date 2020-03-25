@@ -89,6 +89,8 @@
     * [1254 统计封闭岛屿的数目](suan-fa/tu-lun-1/1254-tong-ji-feng-bi-dao-yu-de-shu-mu.md)
     * [841 钥匙和房间](suan-fa/tu-lun-1/841-yao-chi-he-fang-jian.md)
   * [搜索](suan-fa/sou-suo/README.md)
+    * [二分查找](suan-fa/sou-suo/er-fen-cha-zhao/README.md)
+      * [4 寻找两个有序数组的中位数](suan-fa/sou-suo/er-fen-cha-zhao/4-xun-zhao-liang-ge-you-xu-shu-zu-de-zhong-wei-shu.md)
     * [广度优先](suan-fa/sou-suo/guang-du-you-xian/README.md)
       * [127. 单词接龙](suan-fa/sou-suo/guang-du-you-xian/127.-dan-ci-jie-long.md)
     * [单词搜索](suan-fa/sou-suo/dan-ci-sou-suo/README.md)
