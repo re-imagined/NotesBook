@@ -33,6 +33,7 @@
     * [221 最大正方形](suan-fa/dong-tai-gui-hua/221-zui-da-zheng-fang-xing.md)
     * [279 完全平方数](suan-fa/dong-tai-gui-hua/279-wan-quan-ping-fang-shu.md)
     * [516 最长回文子序列](suan-fa/dong-tai-gui-hua/516-zui-chang-hui-wen-zi-xu-lie.md)
+    * [264 丑数II](suan-fa/dong-tai-gui-hua/264-chou-shu-ii.md)
   * [图论](suan-fa/tu-lun/README.md)
     * [133 克隆图](suan-fa/tu-lun/ke-long-tu.md)
     * [138 复制带随机指针的链表](suan-fa/tu-lun/138-fu-zhi-dai-sui-ji-zhi-zhen-de-lian-biao.md)
