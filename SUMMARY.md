@@ -114,6 +114,7 @@
       * [90 子集II](suan-fa/sou-suo/pai-lie-zu-he/90-zi-ji-ii.md)
       * [216 组合总和 III](suan-fa/sou-suo/pai-lie-zu-he/216-zu-he-zong-he-iii.md)
       * [784 字母大小写全排列](suan-fa/sou-suo/pai-lie-zu-he/784-zi-mu-da-xiao-xie-quan-pai-lie.md)
+      * [306 累加数](suan-fa/sou-suo/pai-lie-zu-he/306-lei-jia-shu.md)
 * [Spring](spring/README.md)
   * [ApplicationContext与BeanFactory](spring/applicationcontext-yu-beanfactory.md)
 * [MySQL](mysql.md)
