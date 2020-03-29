@@ -58,6 +58,7 @@
   * [树](suan-fa/shu/README.md)
     * [104. 二叉树的最大深度](suan-fa/shu/104.-er-cha-shu-de-zui-da-shen-du.md)
     * [111 二叉树的最小深度](suan-fa/shu/111-er-cha-shu-de-zui-xiao-shen-du.md)
+    * [124 二叉树中的最大路径和](suan-fa/shu/124-er-cha-shu-zhong-de-zui-da-lu-jing-he.md)
     * [543 二叉树的直径](suan-fa/shu/543-er-cha-shu-de-zhi-jing.md)
     * [110 平衡二叉树](suan-fa/shu/110-ping-heng-er-cha-shu.md)
     * [590 N叉树的后序遍历](suan-fa/shu/590ncha-shu-de-hou-xu-bian-li.md)
