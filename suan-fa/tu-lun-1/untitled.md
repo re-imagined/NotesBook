@@ -1,4 +1,4 @@
-# Untitled
+# 743 网络延迟时间
 
 有 N 个网络节点，标记为 1 到 N。
 
@@ -26,6 +26,10 @@
 
 solution 1 - bellman ford 算法
 
+solution 2 - dijkstra
+
+{% tabs %}
+{% tab title="bellman ford " %}
 ```java
 class Solution {
     int MAX = 101 * 100;
@@ -53,6 +57,8 @@ class Solution {
     }
 }
 ```
+{% endtab %}
+{% endtabs %}
 
 
 
