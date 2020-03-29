@@ -4,7 +4,7 @@ description: 搜索 剪枝
 
 # 306 累加数
 
-相似题目 [将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)
+相似题目 [842 将数组拆分成斐波那契序列](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)
 
   
 累加数是一个字符串，组成它的数字可以形成累加序列。
