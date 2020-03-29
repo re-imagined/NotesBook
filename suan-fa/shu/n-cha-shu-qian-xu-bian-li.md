@@ -10,7 +10,7 @@ description: 非递归遍历树
 
 > #### 能否不用递归完成？
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%282%29.png)
 
 {% tabs %}
 {% tab title="递归" %}

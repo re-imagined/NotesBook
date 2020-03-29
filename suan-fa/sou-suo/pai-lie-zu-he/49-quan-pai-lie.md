@@ -46,5 +46,5 @@ class Solution {
 }
 ```
 
-![&#x56FE;&#x7247;&#x8F6C;&#x81EA;leetcode](../../../.gitbook/assets/image%20%283%29.png)
+![&#x56FE;&#x7247;&#x8F6C;&#x81EA;leetcode](../../../.gitbook/assets/image%20%284%29.png)
 
