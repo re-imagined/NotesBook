@@ -69,6 +69,7 @@
     * [94 二叉树的中序遍历](suan-fa/shu/94-er-cha-shu-de-zhong-xu-bian-li.md)
     * [144 二叉树的前序遍历](suan-fa/shu/144-er-cha-shu-de-qian-xu-bian-li.md)
     * [145 二叉树的后序遍历](suan-fa/shu/145-er-cha-shu-de-hou-xu-bian-li.md)
+    * [114 二叉树展开为链表](suan-fa/shu/114-er-cha-shu-zhan-kai-wei-lian-biao.md)
     * [111 二叉树的最小深度](suan-fa/shu/111-er-cha-shu-de-zui-xiao-shen-du-1.md)
     * [104 二叉树的最大深度](suan-fa/shu/104-er-cha-shu-de-zui-da-shen-du.md)
     * [100 相同的树](suan-fa/shu/100-xiang-tong-de-shu.md)
