@@ -86,6 +86,7 @@
     * [617 合并二叉树](suan-fa/shu/617-he-bing-er-cha-shu.md)
     * [386 字典序排数](suan-fa/shu/386-zi-dian-xu-pai-shu.md)
     * [440 字典序的第K小数字](suan-fa/shu/440-zi-dian-xu-de-dikxiao-shu-zi.md)
+    * [865 具有所有最深结点的最小子树](suan-fa/shu/865-ju-you-suo-you-zui-shen-jie-dian-de-zui-xiao-zi-shu.md)
     * [1382 将二叉搜索树变平衡](suan-fa/shu/1382-jiang-er-cha-sou-suo-shu-bian-ping-heng.md)
   * [图论](suan-fa/tu-lun-1/README.md)
     * [200 岛屿数量](suan-fa/tu-lun-1/200-dao-yu-shu-liang.md)
