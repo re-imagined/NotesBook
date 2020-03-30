@@ -15,6 +15,7 @@
     * [389 找不同](suan-fa/wei-yun-suan/389-zhao-bu-tong.md)
   * [其他](suan-fa/qi-ta/README.md)
     * [398 随机数索引 蓄水池抽样](suan-fa/qi-ta/398-sui-ji-shu-suo-yin-xu-shui-chi-chou-yang.md)
+    * [\[设计\] 348. 判定井字棋胜负](suan-fa/qi-ta/she-ji-348.-pan-ding-jing-zi-qi-sheng-fu.md)
   * [HashMap](suan-fa/hashmap/README.md)
     * [525. 连续数组](suan-fa/hashmap/525.-lian-xu-shu-zu.md)
     * [523 连续的子数组和](suan-fa/hashmap/523-lian-xu-de-zi-shu-zu-he.md)

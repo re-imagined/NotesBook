@@ -45,7 +45,66 @@ quick_sort(array, start, end):
 ```
 {% endcode %}
 
+```java
+class Solution {
+    public List<Integer> sortArray(int[] nums) {
+        
+        if (nums == null || nums.length <= 0) {
+            return new ArrayList();
+        }
 
+        sort(nums, 0, nums.length - 1);
+        List<Integer> list2 = new ArrayList<Integer>();
+        for (int num : nums) {
+            list2.add(num);
+        }
+        return list2;        
+    }
+    
+    private void sort(int[] nums, int start, int end) {
+        if (start >= end) {
+            return;
+        }
+        int p = partition(nums, start, end);
+        sort(nums, start, p - 1);
+        sort(nums, p + 1, end);
+    }
+
+    private int partition(int[] nums, int start, int end) {
+        int i = start;
+        int j = start + 1;
+        int v = nums[start];
+        while (true) {
+            while (nums[++i] < v) {
+                if (i == end) {
+                    break;
+                }
+            }
+
+            while (nums[--j] > v) {
+                if (j == start) {
+                    break;
+                }
+            }
+            if (i >= j) {
+                break;
+            }
+            int tmp = nums[i];
+            nums[i] = nums[j];
+            nums[j] = tmp;
+        }
+        int tmp = nums[start];
+        nums[start] = nums[j];
+        nums[j] = tmp;
+        return j;
+
+    }
+    
+
+
+
+}java
+```
 
 
 
