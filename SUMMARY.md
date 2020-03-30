@@ -93,6 +93,8 @@
     * [200 岛屿数量](suan-fa/tu-lun-1/200-dao-yu-shu-liang.md)
     * [1254 统计封闭岛屿的数目](suan-fa/tu-lun-1/1254-tong-ji-feng-bi-dao-yu-de-shu-mu.md)
     * [841 钥匙和房间](suan-fa/tu-lun-1/841-yao-chi-he-fang-jian.md)
+    * [310 最小高度树](suan-fa/tu-lun-1/310-zui-xiao-gao-du-shu.md)
+    * [1162 地图分析](suan-fa/tu-lun-1/1162-di-tu-fen-xi.md)
     * [743 网络延迟时间](suan-fa/tu-lun-1/untitled.md)
   * [搜索](suan-fa/sou-suo/README.md)
     * [二分查找](suan-fa/sou-suo/er-fen-cha-zhao/README.md)
