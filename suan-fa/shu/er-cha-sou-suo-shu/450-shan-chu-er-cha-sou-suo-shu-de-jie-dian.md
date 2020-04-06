@@ -37,7 +37,7 @@ key = 3
     4   7
 ```
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../../../.gitbook/assets/image%20%282%29.png)
 
 如果a.val == key, 那么只需将父节点指向a的指针置空即可
 
@@ -45,9 +45,9 @@ key = 3
 
 如果a.val == key, 有左和右子树，在a的右子树中找最小节点m，替换到a的位置（在a的子树中一直往左走即可找到最小值），然后再递归地删除节点m
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../../.gitbook/assets/image%20%288%29.png)
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../../.gitbook/assets/image%20%2813%29.png)
 
 ```java
 /**
