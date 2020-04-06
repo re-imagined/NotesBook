@@ -26,7 +26,7 @@ description: 记忆化递归
 
 递归从每个位置拆分成左右两个字符串，并且用一个HashMap来缓存右侧子串是否在字典里面，
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 ```java
 class Solution {

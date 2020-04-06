@@ -10,7 +10,7 @@ description: 非递归遍历树
 
 返回其后序遍历: `[5,6,3,2,4,1]`.
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/image%20%289%29.png)
 
 ```java
 /*
