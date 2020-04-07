@@ -62,6 +62,7 @@
       * [109 有序链表转换二叉搜索树](suan-fa/shu/er-cha-sou-suo-shu/109-you-xu-lian-biao-zhuan-huan-er-cha-sou-suo-shu.md)
       * [230 二叉搜索树中第K小的元素](suan-fa/shu/er-cha-sou-suo-shu/230-er-cha-sou-suo-shu-zhong-dikxiao-de-yuan-su.md)
       * [450 删除二叉搜索树的节点](suan-fa/shu/er-cha-sou-suo-shu/450-shan-chu-er-cha-sou-suo-shu-de-jie-dian.md)
+      * [449 序列化和反序列化二叉搜索树](suan-fa/shu/er-cha-sou-suo-shu/449-xu-lie-hua-he-fan-xu-lie-hua-er-cha-sou-suo-shu.md)
       * [1382 将二叉搜索树变平衡](suan-fa/shu/er-cha-sou-suo-shu/1382-jiang-er-cha-sou-suo-shu-bian-ping-heng.md)
     * [104. 二叉树的最大深度](suan-fa/shu/104.-er-cha-shu-de-zui-da-shen-du.md)
     * [111 二叉树的最小深度](suan-fa/shu/111-er-cha-shu-de-zui-xiao-shen-du.md)
