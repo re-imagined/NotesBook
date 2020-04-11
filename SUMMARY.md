@@ -54,6 +54,7 @@
     * [167 两数之和 II - 输入有序数组](suan-fa/lian-biao/167-liang-shu-zhi-he-ii-shu-ru-you-xu-shu-zu.md)
     * [977 有序数组的平方](suan-fa/lian-biao/977-you-xu-shu-zu-de-ping-fang.md)
     * [23 合并K个排序链表](suan-fa/lian-biao/he-bingkge-pai-xu-lian-biao.md)
+    * [147 链表插入排序](suan-fa/lian-biao/147-lian-biao-cha-ru-pai-xu.md)
     * [148 排序链表](suan-fa/lian-biao/148-pai-xu-lian-biao.md)
     * [215 数组中的第K个最大元素](suan-fa/lian-biao/215-shu-zu-zhong-de-dikge-zui-da-yuan-su.md)
     * [234 回文链表](suan-fa/lian-biao/234-hui-wen-lian-biao.md)
