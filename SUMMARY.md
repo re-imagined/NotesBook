@@ -56,6 +56,7 @@
     * [23 合并K个排序链表](suan-fa/lian-biao/he-bingkge-pai-xu-lian-biao.md)
     * [148 排序链表](suan-fa/lian-biao/148-pai-xu-lian-biao.md)
     * [215 数组中的第K个最大元素](suan-fa/lian-biao/215-shu-zu-zhong-de-dikge-zui-da-yuan-su.md)
+    * [234 回文链表](suan-fa/lian-biao/234-hui-wen-lian-biao.md)
   * [树](suan-fa/shu/README.md)
     * [二叉搜索树](suan-fa/shu/er-cha-sou-suo-shu/README.md)
       * [108 将有序数组转换为二叉搜索树](suan-fa/shu/er-cha-sou-suo-shu/108-jiang-you-xu-shu-zu-zhuan-huan-wei-er-cha-sou-suo-shu.md)

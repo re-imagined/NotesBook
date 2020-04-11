@@ -1,9 +1,5 @@
 # 链表 / 数组
 
-
-
-&lt;!--td {border: 1px solid \#ccc;}br {mso-data-placement:same-cell;}--&gt;
-
 | Id | Name | Difficulty | Similar Problems |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ★★ | [445](https://leetcode.com/problems/add-two-numbers-ii/)   | 41 |  |  |  |  |
