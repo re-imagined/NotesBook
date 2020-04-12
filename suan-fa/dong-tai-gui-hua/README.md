@@ -1,15 +1,12 @@
 # 动态规划
 
-
-
-
-
 | Id | Name | Difficulty | Similar Problems | Comments |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 70 | [Climbing Stairs](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-70-climbing-stairs/) | ★ | [746](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-746-min-cost-climbing-stairs/) | [1137](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-1137-n-th-tribonacci-number/) |  |  |  | I: O\(n\), S = O\(n\), T = O\(n\) |
 | 303 | [Range Sum Query - Immutable](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-303-range-sum-query-immutable/) | ★ | [1218](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-1218-longest-arithmetic-subsequence-of-given-difference/) |  |  |  |  |  |
 | 53 | [Maximum Subarray](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-53-maximum-subarray/) | ★★ | [121](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-121-best-time-to-buy-and-sell-stock/) |  |  |  |  |  |
 | 62 | [Unique Paths](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-62-unique-paths/) | ★★ | [63](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-63-unique-paths-ii/) | [64](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-64-minimum-path-sum/) | [120](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-120-triangle/) | [174](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-174-dungeon-game/) | [931](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-931-minimum-falling-path-sum/) | I: O\(mn\), S = O\(mn\), T = O\(mn\) |
+| [1210](https://zxi.mytechroad.com/blog/searching/leetcode-1210-minimum-moves-to-reach-target-with-rotations/) |  |  |  |  |  |  |  |  |
 | 85 | [Maximal Rectangle](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-85-maximal-rectangle/) | ★★★ | [221](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-304-range-sum-query-2d-immutable/) | [304](https://leetcode.com/problems/range-sum-query-2d-immutable) | [1277](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-1277-count-square-submatrices-with-all-ones/) |  |  |  |
 | 198 | [House Robber](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-198-house-robber/) | ★★★ | [213](https://leetcode.com/problems/house-robber-ii/) | [309](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-309-best-time-to-buy-and-sell-stock-with-cooldown/) | [740](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-740-delete-and-earn/) | [790](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-790-domino-and-tromino-tiling/) | [801](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-801-minimum-swaps-to-make-sequences-increasing/) | I: O\(n\), S = O\(3n\), T = O\(3n\) |
 | 279 | [Perfect Squares](https://zxi.mytechroad.com/blog/dynamic-programming/leetcode-279-perfect-squares/) | ★★★ |  |  |  |  |  | I: n, S = O\(n\), T = O\(n\*sqrt\(n\)\) |
