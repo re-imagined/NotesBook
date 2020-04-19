@@ -17,7 +17,7 @@ description: 单调栈 monotonic stack
 图中阴影部分为所能勾勒出的最大矩形面积，其面积为 10 个单位。
 
 {% tabs %}
-{% tab title="O\(n\)" %}
+{% tab title="单调栈 O\(n\)" %}
 ```java
 class Solution {
     public int largestRectangleArea(int[] heights) {
@@ -44,7 +44,7 @@ class Solution {
 {% endtabs %}
 
 {% tabs %}
-{% tab title="O\(nlogn\)" %}
+{% tab title="分治 O\(nlogn\)" %}
 ```java
 class Solution {
     public int largestRectangleArea3(int[] heights) {
