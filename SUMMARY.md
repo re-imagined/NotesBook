@@ -11,6 +11,7 @@
     * [373 查找和最小的K对数字](suan-fa/dui/373-cha-zhao-he-zui-xiao-dekdui-shu-zi.md)
   * [栈](suan-fa/zhan/README.md)
     * [84 柱状图中最大的矩形](suan-fa/zhan/84-zhu-zhuang-tu-zhong-zui-da-de-ju-xing.md)
+    * [85 最大矩形](suan-fa/zhan/85-zui-da-ju-xing.md)
     * [316. 去除重复字母](suan-fa/zhan/316.-qu-chu-zhong-fu-zi-mu.md)
   * [位运算 / 二进制](suan-fa/wei-yun-suan/README.md)
     * [67 二进制求和](suan-fa/wei-yun-suan/67-er-jin-zhi-qiu-he.md)
