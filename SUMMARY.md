@@ -25,6 +25,7 @@
     * [746 使用最小花费爬楼梯](suan-fa/dong-tai-gui-hua/746-shi-yong-zui-xiao-hua-fei-pa-lou-ti.md)
     * [63 不同路径 II](suan-fa/dong-tai-gui-hua/63-bu-tong-lu-jing-ii.md)
     * [64 最小路径和](suan-fa/dong-tai-gui-hua/64-zui-xiao-lu-jing-he.md)
+    * [174 地下城游戏](suan-fa/dong-tai-gui-hua/174-di-xia-cheng-you-xi.md)
     * [121 买卖股票的最佳时机](suan-fa/dong-tai-gui-hua/121-mai-mai-gu-piao-de-zui-jia-shi-ji.md)
     * [198 打家劫舍](suan-fa/dong-tai-gui-hua/198-da-jia-jie-she.md)
     * [213 打家劫舍 II](suan-fa/dong-tai-gui-hua/213-da-jia-jie-she-ii.md)
