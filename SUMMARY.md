@@ -22,6 +22,7 @@
     * [525. 连续数组](suan-fa/hashmap/525.-lian-xu-shu-zu.md)
     * [523 连续的子数组和](suan-fa/hashmap/523-lian-xu-de-zi-shu-zu-he.md)
     * [560  和为K的子数组](suan-fa/hashmap/560-he-weikde-zi-shu-zu.md)
+    * [1248. 统计「优美子数组」](suan-fa/hashmap/1248.-tong-ji-you-mei-zi-shu-zu.md)
   * [动态规划](suan-fa/dong-tai-gui-hua/README.md)
     * [70 爬楼梯](suan-fa/dong-tai-gui-hua/70-pa-lou-ti.md)
     * [746 使用最小花费爬楼梯](suan-fa/dong-tai-gui-hua/746-shi-yong-zui-xiao-hua-fei-pa-lou-ti.md)
